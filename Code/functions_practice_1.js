@@ -17,16 +17,6 @@ console.log(reindeer(a));
 
 /* Now, complete the function below such that the function greetings gets called and the message is outputed
 HINT: Only one console.log, the one that's already there, is needed. Can you call the function during the variable initialization? */
-
-const declaration = greetings(salute = "Hello, ", place = "World!");
-
-function greetings(salute, place){
-    const message = `${salute}, ${place}`;
-    return message
-};
-
-console.log(declaration);
-
 const ... = ...(salute = "Hello, ", place = "World!");
 
 function ...(..., ...){
